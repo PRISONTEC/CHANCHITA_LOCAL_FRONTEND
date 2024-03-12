@@ -1,0 +1,31 @@
+.regrabarAudios {
+    position: absolute;
+    left: 200px;
+    top: 10px;    
+}
+
+.tablaColaboradores{
+    position: absolute;
+    left: 700px;
+    top: 10px;
+}
+
+.agregarColaborador{
+    position: absolute;
+    left: 700px;
+    top: 200px;
+}
+
+.scrollTable {
+    max-height: 100px;
+    overflow: scroll;
+}
+
+/*MOVER ICONO AUDIO*/
+.audio {
+
+    left: 200px;
+
+    
+    
+}

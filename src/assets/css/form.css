@@ -1,0 +1,58 @@
+.control {
+    color: rgb(9, 28, 208);
+    font-size: 16px;
+    padding-top: 0.3em;
+    padding-bottom: 0.5em;
+    padding-left: 1em;
+}
+.label {
+    left: 420px;
+    top: 150px;
+    position: absolute;
+    
+}
+
+.select {
+    left: 530px;
+    top: 150px;
+    position: absolute;
+}
+
+.label2 {
+    left: 750px;
+    top: 150px;
+    position: absolute;
+    
+}
+
+.select2 {
+    left: 790px;
+    top: 150px;
+    position: absolute;
+}
+
+.label3 {
+    left: 850px;
+    top: 150px;
+    position: absolute;
+    
+}
+
+.select3 {
+    left: 925px;
+    top: 150px;
+    position: absolute;
+}
+
+.label4 {
+    left: 1030px;
+    top: 150px;
+    position: absolute;
+    
+}
+
+.select4 {
+    left: 1100px;
+    top: 150px;
+    position: absolute;
+}

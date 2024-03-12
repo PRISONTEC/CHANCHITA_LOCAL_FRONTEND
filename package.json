@@ -1,0 +1,84 @@
+{
+  "name": "chanchitafront",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/preset-env": "^7.18.10",
+    "@babel/preset-react": "^7.18.6",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@gluons/react-native-fetch-with-timeout": "^0.0.1",
+    "@material-ui/core": "^4.12.4",
+    "@mivia/react-promise-button": "^1.0.4",
+    "@mui/icons-material": "^5.10.6",
+    "@mui/material": "^5.10.6",
+    "@mui/styled-engine-sc": "^5.10.3",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/ws": "^8.5.3",
+    "export-to-csv": "^0.2.1",
+    "fetch-timeout": "^0.0.2",
+    "install": "^0.13.0",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.5.25",
+    "match-sorter": "^6.3.1",
+    "node-fetch": "^3.2.10",
+    "npm": "^8.18.0",
+    "react": "^18.2.0",
+    "react-alert": "^7.0.3",
+    "react-alert-template-basic": "^1.0.2",
+    "react-bootstrap": "^2.5.0",
+    "react-bootstrap-table": "^4.3.1",
+    "react-bootstrap-table-next": "^1.1.0",
+    "react-bootstrap-table2-filter": "^1.3.3",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
+    "react-indiana-drag-scroll": "^2.2.0",
+    "react-native": "^0.70.0",
+    "react-native-dropdownalert": "^4.5.1",
+    "react-native-walkthrough-tooltip": "^1.4.0",
+    "react-native-web": "^0.18.9",
+    "react-page-loading-v2": "^1.0.16",
+    "react-pro-sidebar": "^0.7.1",
+    "react-router-dom": "^6.3.0",
+    "react-simple-audio-player": "^2.0.0",
+    "react-svg": "^15.1.7",
+    "react-table": "^7.8.0",
+    "react-table-scrollbar": "^0.1.11",
+    "react-tooltip": "^4.2.21",
+    "reactstrap": "^9.1.4",
+    "recharts": "^2.1.14",
+    "simple-reveal": "^0.6.0",
+    "state-pool": "^0.7.1",
+    "styled-components": "^5.3.5",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "react-scripts": "^2.1.8"
+  }
+}
